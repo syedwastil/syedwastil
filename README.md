@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Abdur Rehman Wasti
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Computer Vision and Data cleaning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Node.js and React.js
+- 💞️ I’m looking to collaborate on challanging project.
 - 📫 You can reach me mwasti.bee18seecs@seecs.edu.pk
 
 <!---
